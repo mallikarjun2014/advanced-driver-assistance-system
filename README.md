@@ -1,4 +1,4 @@
-# advanced-driver-assistance-system
+# Advanced-driver-assistance-system
 This system is designed to enhance road safety by detecting driver drowsiness through monitoring their eye movements. By analyzing the duration of eye closure, the system can determine if the driver is becoming drowsy and alert them accordingly with an alarm. The primary goal of this project is to minimize the occurrence of road accidents.
 # Purpose
 The main objective of this project is to enhance road safety by addressing the issue of driver drowsiness. Leveraging computer vision techniques and machine learning algorithms, the system accurately monitors eye movements to identify signs of drowsiness. By promptly alerting drivers, the system can help prevent accidents and save lives.
