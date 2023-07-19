@@ -9,15 +9,15 @@ I have trained a drowsiness detection model using the aforementioned dataset, ac
 # Installation and Usage
 To run the Driver Drowsiness Detection System on your local machine, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/your-repo.git
-Install the required dependencies: pip install -r requirements.txt
-Download the trained model from the provided link and place it in the appropriate directory.
-Run the main script: python drowsiness detection.py
+1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+2. Install the required dependencies: `pip install -r requirements.txt`
+3. Download the trained model from the provided link and place it in the appropriate directory.
+4. Run the main script: `python main.py`
 # Contribution Guidelines
 Contributions are welcome! If you would like to contribute to this project, please adhere to the following guidelines:
 
-Fork the repository and create a new branch for your feature or bug fix.
-Make your changes while ensuring proper code formatting.
-Submit a pull request, detailing your modifications and their significance.
+- Fork the repository and create a new branch for your feature or bug fix.
+- Make your changes while ensuring proper code formatting.
+- Submit a pull request, detailing your modifications and their significance.
 # License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code in accordance with the terms of this license.
